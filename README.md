@@ -76,7 +76,7 @@ backend/
 ## 1. Clone Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPO_LINK>
+git clone https://github.com/bscs23031/PDC-Sp24-BSCS23031-Rafay
 cd PDC-Sp24-BSCS23031-Rafay
 ```
 
